@@ -1,3 +1,3 @@
-module github.com/kikulabo/go-sample-package
+module github.com/kikulabo/go-package
 
 go 1.21.6
